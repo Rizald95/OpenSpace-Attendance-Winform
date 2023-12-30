@@ -1,0 +1,15 @@
+asset-asset material design.
+1. logo study book
+2. logo kunci / terserah
+3. logo silang
+4. logo dashboard
+5. logo attendance
+6. logo add class (contoh)
+7. logo add student (contoh)
+8. logo report
+9. logo register
+10. logo search
+11. logo material design class
+12. logo material design student add
+13. logo material design group
+14. logo material design print

@@ -1,0 +1,52 @@
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance Management System.exe
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance Management System.deps.json
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance Management System.runtimeconfig.json
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance Management System.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance Management System.pdb
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\bin\Debug\net6.0-windows\Attendance.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Properties.Resources.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.View.FormForgotPassword.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.View.FormMain.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.View.loginFormUserAdministrator.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.AssemblyInfo.cs
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.csproj.CopyComplete
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\refint\Attendance Management System.dll
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.pdb
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance Management System.genruntimeconfig.cache
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\ref\Attendance Management System.dll
