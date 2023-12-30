@@ -12,6 +12,7 @@ namespace Attendance_Management_System.View
 {
     public partial class FormMain : Form
     {
+        public string USERNAME, ROLE;
         public FormMain()
         {
             InitializeComponent();
@@ -20,6 +21,14 @@ namespace Attendance_Management_System.View
         private void FormMain_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttonLogOut_Click(object sender, EventArgs e)
+        {
+            this.Close(); // atau formForgotPassword.Close();
+
+            loginFormUserAdministrator formLogin = new loginFormUserAdministrator();
+            formLogin.Show();
         }
     }
 }
