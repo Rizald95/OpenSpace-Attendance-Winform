@@ -173,14 +173,22 @@ namespace Attendance_Management_System.View
                 sql1.Close();
             }
 
+            if (textBox1.Text.Trim() != string.Empty && formPassword.Text.Trim() != string.Empty)
+            {
+                FormMain formMain = new FormMain();
+                formMain.USERNAME = textBox1.Text;
+
+            }
+
           
+
 
 
             //Contoh
 
-            // if (textBox1.Text.Trim() != string.Empty && formPassword.Text.Trim() != string.Empty)
-            //  {
-            // Menggunakan variabel constr sebagai string koneksi
+          ///  if (textBox1.Text.Trim() != string.Empty && formPassword.Text.Trim() != string.Empty)
+           //  {
+             //Menggunakan variabel constr sebagai string koneksi
             //string checkpassword = Attendance.Attendance.IsValidNamePass(textBox1.Text.Trim(), formPassword.Text.Trim(), constr);
 
             //if (checkpassword != "")
