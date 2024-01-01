@@ -85,6 +85,7 @@ namespace Attendance_Management_System.View
         private void buttonDashboard_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonDashboard);
+            userControlAddClass1.Visible = false;
             userControlforDashboard1.Count();
             userControlforDashboard1.Visible = true;
         }
@@ -92,30 +93,36 @@ namespace Attendance_Management_System.View
         private void buttonAttendance_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonAttendance);
+            userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
         }
 
         private void buttonSession_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonSession);
+            userControlAddClass1.ClearTextBox();
+            userControlAddClass1.Visible = true;
             userControlforDashboard1.Visible = false;
         }
 
         private void buttonMember_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonMember);
+            userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
         }
 
         private void buttonReport_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonReport);
+            userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
         }
 
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonRegister);
+            userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
         }
 
@@ -147,6 +154,11 @@ namespace Attendance_Management_System.View
         }
 
         private void userControlforDashboard1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControlAddClass1_Load(object sender, EventArgs e)
         {
 
         }
