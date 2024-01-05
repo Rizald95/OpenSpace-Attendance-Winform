@@ -34,6 +34,7 @@
             pictureBox2 = new PictureBox();
             pictureBox3 = new PictureBox();
             groupBox1 = new GroupBox();
+            ClearButton = new Button();
             formPassword = new TextBox();
             label2 = new Label();
             label1 = new Label();
@@ -48,7 +49,7 @@
             label3 = new Label();
             label4 = new Label();
             toolTip1 = new ToolTip(components);
-            ClearButton = new Button();
+            labelRegisterUser = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -103,6 +104,7 @@
             // groupBox1
             // 
             groupBox1.Anchor = AnchorStyles.None;
+            groupBox1.Controls.Add(labelRegisterUser);
             groupBox1.Controls.Add(ClearButton);
             groupBox1.Controls.Add(formPassword);
             groupBox1.Controls.Add(label2);
@@ -122,6 +124,16 @@
             groupBox1.Text = "Please a Login First";
             groupBox1.Enter += groupBox1_Enter;
             // 
+            // ClearButton
+            // 
+            ClearButton.Location = new Point(173, 417);
+            ClearButton.Name = "ClearButton";
+            ClearButton.Size = new Size(94, 29);
+            ClearButton.TabIndex = 10;
+            ClearButton.Text = "Clear";
+            ClearButton.UseVisualStyleBackColor = true;
+            ClearButton.Click += ClearButton_Click;
+            // 
             // formPassword
             // 
             formPassword.Location = new Point(93, 168);
@@ -135,7 +147,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(93, 300);
+            label2.Location = new Point(89, 308);
             label2.Name = "label2";
             label2.Size = new Size(125, 20);
             label2.TabIndex = 9;
@@ -267,15 +279,15 @@
             label4.TabIndex = 10;
             label4.Text = "Attendance Management System";
             // 
-            // ClearButton
+            // labelRegisterUser
             // 
-            ClearButton.Location = new Point(173, 417);
-            ClearButton.Name = "ClearButton";
-            ClearButton.Size = new Size(94, 29);
-            ClearButton.TabIndex = 10;
-            ClearButton.Text = "Clear";
-            ClearButton.UseVisualStyleBackColor = true;
-            ClearButton.Click += ClearButton_Click;
+            labelRegisterUser.AutoSize = true;
+            labelRegisterUser.Location = new Point(277, 308);
+            labelRegisterUser.Name = "labelRegisterUser";
+            labelRegisterUser.Size = new Size(96, 20);
+            labelRegisterUser.TabIndex = 11;
+            labelRegisterUser.Text = "Register User";
+            labelRegisterUser.Click += labelRegisterUser_Click;
             // 
             // loginFormUserAdministrator
             // 
@@ -330,5 +342,6 @@
         private Label label4;
         private ToolTip toolTip1;
         private Button ClearButton;
+        private Label labelRegisterUser;
     }
 }

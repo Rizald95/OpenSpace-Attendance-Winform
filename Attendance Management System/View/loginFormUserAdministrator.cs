@@ -17,7 +17,7 @@ namespace Attendance_Management_System.View
 
         SqlConnection sql1 = new SqlConnection(@"Data Source=DESKTOP-L0O7QKS\SQLEXPRESS;Initial Catalog=OpenSpace_StudyClub;Integrated Security=True");
 
-       
+
 
 
 
@@ -180,15 +180,15 @@ namespace Attendance_Management_System.View
 
             }
 
-          
+
 
 
 
             //Contoh
 
-          ///  if (textBox1.Text.Trim() != string.Empty && formPassword.Text.Trim() != string.Empty)
-           //  {
-             //Menggunakan variabel constr sebagai string koneksi
+            ///  if (textBox1.Text.Trim() != string.Empty && formPassword.Text.Trim() != string.Empty)
+            //  {
+            //Menggunakan variabel constr sebagai string koneksi
             //string checkpassword = Attendance.Attendance.IsValidNamePass(textBox1.Text.Trim(), formPassword.Text.Trim(), constr);
 
             //if (checkpassword != "")
@@ -262,6 +262,12 @@ namespace Attendance_Management_System.View
             formPassword.Clear();
 
             textBox1.Focus();
+        }
+
+        private void labelRegisterUser_Click(object sender, EventArgs e)
+        {
+            FormRegisterUser formRegisterUser = new FormRegisterUser();
+            formRegisterUser.ShowDialog();
         }
     }
 }

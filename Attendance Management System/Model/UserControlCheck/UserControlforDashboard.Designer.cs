@@ -146,6 +146,7 @@
             labeltotalClass.Size = new Size(26, 20);
             labeltotalClass.TabIndex = 2;
             labeltotalClass.Text = "{?}";
+            labeltotalClass.Click += labeltotalClass_Click;
             // 
             // label1
             // 
