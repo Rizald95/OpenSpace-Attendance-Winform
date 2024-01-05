@@ -86,15 +86,19 @@ namespace Attendance_Management_System.View
         {
             MoveSidePanel(buttonDashboard);
             userControlAddClass1.Visible = false;
+            userControlAddStudent1.Visible = false;
             userControlforDashboard1.Count();
             userControlforDashboard1.Visible = true;
+            userControlRegister1.Visible = false;
         }
 
         private void buttonAttendance_Click(object sender, EventArgs e)
         {
             MoveSidePanel(buttonAttendance);
             userControlAddClass1.Visible = false;
+            userControlAddStudent1.Visible = false;
             userControlforDashboard1.Visible = false;
+            userControlRegister1.Visible = false;
         }
 
         private void buttonSession_Click(object sender, EventArgs e)
@@ -103,6 +107,8 @@ namespace Attendance_Management_System.View
             userControlAddClass1.ClearTextBox();
             userControlAddClass1.Visible = true;
             userControlforDashboard1.Visible = false;
+            userControlAddStudent1.Visible = false;
+            userControlRegister1.Visible = false;
         }
 
         private void buttonMember_Click(object sender, EventArgs e)
@@ -110,6 +116,9 @@ namespace Attendance_Management_System.View
             MoveSidePanel(buttonMember);
             userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
+            userControlAddStudent1.ClearTextBox();
+            userControlAddStudent1.Visible = true;
+            userControlRegister1.Visible = false;
         }
 
         private void buttonReport_Click(object sender, EventArgs e)
@@ -117,6 +126,8 @@ namespace Attendance_Management_System.View
             MoveSidePanel(buttonReport);
             userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
+            userControlAddStudent1.Visible = false;
+            userControlRegister1.Visible = false;
         }
 
         private void buttonRegister_Click(object sender, EventArgs e)
@@ -124,6 +135,8 @@ namespace Attendance_Management_System.View
             MoveSidePanel(buttonRegister);
             userControlAddClass1.Visible = false;
             userControlforDashboard1.Visible = false;
+            userControlAddStudent1.Visible = false;
+            userControlRegister1.Visible = true;
         }
 
         private void panelSideButton_Paint(object sender, PaintEventArgs e)

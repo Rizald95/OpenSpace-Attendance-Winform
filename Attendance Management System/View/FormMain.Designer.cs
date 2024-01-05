@@ -64,6 +64,8 @@
             timerDateAndTime = new System.Windows.Forms.Timer(components);
             userControlforDashboard1 = new Model.UserControlCheck.UserControlforDashboard();
             userControlAddClass1 = new Model.UserControlCheck.UserControlAddClass();
+            userControlAddStudent1 = new Model.UserControlCheck.UserControlAddStudent();
+            userControlRegister1 = new Model.UserControlCheck.UserControlRegister();
             panelSide.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBoxRegister).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBoxReport).BeginInit();
@@ -474,12 +476,32 @@
             userControlAddClass1.Visible = false;
             userControlAddClass1.Load += userControlAddClass1_Load;
             // 
+            // userControlAddStudent1
+            // 
+            userControlAddStudent1.Dock = DockStyle.Fill;
+            userControlAddStudent1.Location = new Point(229, 193);
+            userControlAddStudent1.Name = "userControlAddStudent1";
+            userControlAddStudent1.Size = new Size(971, 527);
+            userControlAddStudent1.TabIndex = 0;
+            userControlAddStudent1.Visible = false;
+            // 
+            // userControlRegister1
+            // 
+            userControlRegister1.BackColor = Color.White;
+            userControlRegister1.Dock = DockStyle.Fill;
+            userControlRegister1.Location = new Point(229, 193);
+            userControlRegister1.Name = "userControlRegister1";
+            userControlRegister1.Size = new Size(971, 527);
+            userControlRegister1.TabIndex = 3;
+            // 
             // FormMain
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(1200, 720);
+            Controls.Add(userControlRegister1);
+            Controls.Add(userControlAddStudent1);
             Controls.Add(userControlAddClass1);
             Controls.Add(userControlforDashboard1);
             Controls.Add(panelUp);
@@ -548,5 +570,7 @@
         private System.Windows.Forms.Timer timerDateAndTime;
         private Model.UserControlCheck.UserControlforDashboard userControlforDashboard1;
         private Model.UserControlCheck.UserControlAddClass userControlAddClass1;
+        private Model.UserControlCheck.UserControlAddStudent userControlAddStudent1;
+        private Model.UserControlCheck.UserControlRegister userControlRegister1;
     }
 }

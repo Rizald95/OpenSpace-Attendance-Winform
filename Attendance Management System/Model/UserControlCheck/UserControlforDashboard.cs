@@ -23,12 +23,19 @@ namespace Attendance_Management_System.Model.UserControlCheck
 
         public void Count()
         {
+            //labeltotalClass.Text = Attendance.Attendance.Count("SELECT COUNT(*) FROM Class_Table;", sql).ToString();
+            //labeltotalStudent.Text = Attendance.Attendance.Count("SELECT COUNT(*) FROM Student_Table;", sql).ToString();
 
         }
 
         private void UserControlforDashboard_Load(object sender, EventArgs e)
         {
             Count();
+        }
+
+        private void labeltotalClass_Click(object sender, EventArgs e)
+        {
+
         }
     }
 

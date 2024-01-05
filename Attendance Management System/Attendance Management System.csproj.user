@@ -4,16 +4,31 @@
     <Compile Update="Model\UserControlCheck\UserControlAddClass.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Model\UserControlCheck\UserControlAddStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Model\UserControlCheck\UserControlDashboard.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Update="Model\UserControlCheck\UserControlforDashboard.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="Model\UserControlCheck\UserControlMarkAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Model\UserControlCheck\UserControlRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Model\UserControlCheck\UserControlReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="View\FormForgotPassword.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\FormRegisterUser.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="View\loginFormUserAdministrator.cs">

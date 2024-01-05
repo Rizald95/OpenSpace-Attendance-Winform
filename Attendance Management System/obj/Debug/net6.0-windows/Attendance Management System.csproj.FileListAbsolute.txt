@@ -53,3 +53,9 @@ C:\Users\user\source\repos\Attendance Management System\Attendance Management Sy
 C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlDashboard.resources
 C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlforDashboard.resources
 C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlAddClass.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlAddStudent.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlAttendance.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlRegister.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlReport.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.Model.UserControlCheck.UserControlMarkAttendance.resources
+C:\Users\user\source\repos\Attendance Management System\Attendance Management System\obj\Debug\net6.0-windows\Attendance_Management_System.View.FormRegisterUser.resources

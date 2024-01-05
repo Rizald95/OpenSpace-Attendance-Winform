@@ -143,7 +143,7 @@
             panel4.BackColor = Color.IndianRed;
             panel4.Location = new Point(504, 299);
             panel4.Name = "panel4";
-            panel4.Size = new Size(250, 10);
+            panel4.Size = new Size(250, 3);
             panel4.TabIndex = 12;
             // 
             // textBoxFemale
@@ -168,7 +168,7 @@
             panel3.BackColor = Color.IndianRed;
             panel3.Location = new Point(105, 299);
             panel3.Name = "panel3";
-            panel3.Size = new Size(250, 10);
+            panel3.Size = new Size(250, 3);
             panel3.TabIndex = 9;
             // 
             // textBoxMale
@@ -194,7 +194,7 @@
             panel2.BackColor = Color.IndianRed;
             panel2.Location = new Point(504, 178);
             panel2.Name = "panel2";
-            panel2.Size = new Size(250, 10);
+            panel2.Size = new Size(250, 3);
             panel2.TabIndex = 6;
             // 
             // panel1
@@ -202,7 +202,7 @@
             panel1.BackColor = Color.IndianRed;
             panel1.Location = new Point(105, 178);
             panel1.Name = "panel1";
-            panel1.Size = new Size(250, 10);
+            panel1.Size = new Size(250, 3);
             panel1.TabIndex = 5;
             // 
             // textBoxTotal
@@ -380,7 +380,7 @@
             panel5.BackColor = Color.IndianRed;
             panel5.Location = new Point(129, 114);
             panel5.Name = "panel5";
-            panel5.Size = new Size(297, 10);
+            panel5.Size = new Size(297, 3);
             panel5.TabIndex = 9;
             // 
             // label6
@@ -462,7 +462,7 @@
             panel6.BackColor = Color.IndianRed;
             panel6.Location = new Point(498, 299);
             panel6.Name = "panel6";
-            panel6.Size = new Size(250, 10);
+            panel6.Size = new Size(250, 3);
             panel6.TabIndex = 26;
             // 
             // textBoxFemaleUpdate
@@ -492,7 +492,7 @@
             panel7.BackColor = Color.IndianRed;
             panel7.Location = new Point(99, 299);
             panel7.Name = "panel7";
-            panel7.Size = new Size(250, 10);
+            panel7.Size = new Size(250, 3);
             panel7.TabIndex = 23;
             // 
             // textBoxMaleUpdate
@@ -521,7 +521,7 @@
             panel8.BackColor = Color.IndianRed;
             panel8.Location = new Point(498, 178);
             panel8.Name = "panel8";
-            panel8.Size = new Size(250, 10);
+            panel8.Size = new Size(250, 3);
             panel8.TabIndex = 20;
             // 
             // panel9
@@ -530,7 +530,7 @@
             panel9.BackColor = Color.IndianRed;
             panel9.Location = new Point(99, 178);
             panel9.Name = "panel9";
-            panel9.Size = new Size(250, 10);
+            panel9.Size = new Size(250, 3);
             panel9.TabIndex = 19;
             // 
             // textBoxTotalUpdate
